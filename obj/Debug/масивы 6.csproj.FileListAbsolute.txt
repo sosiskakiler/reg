@@ -1,0 +1,7 @@
+C:\Users\Серёжа\source\repos\масивы 6\масивы 6\bin\Debug\масивы 6.exe.config
+C:\Users\Серёжа\source\repos\масивы 6\масивы 6\bin\Debug\масивы 6.exe
+C:\Users\Серёжа\source\repos\масивы 6\масивы 6\bin\Debug\масивы 6.pdb
+C:\Users\Серёжа\source\repos\масивы 6\масивы 6\obj\Debug\масивы 6.csprojAssemblyReference.cache
+C:\Users\Серёжа\source\repos\масивы 6\масивы 6\obj\Debug\масивы 6.csproj.CoreCompileInputs.cache
+C:\Users\Серёжа\source\repos\масивы 6\масивы 6\obj\Debug\масивы 6.exe
+C:\Users\Серёжа\source\repos\масивы 6\масивы 6\obj\Debug\масивы 6.pdb
